@@ -1,4 +1,4 @@
-const CACHE_NAME = 'casamento-lh-v4.1.0';
+const CACHE_NAME = 'casamento-lh-v4.2.0';
 self.addEventListener('install', function(event) {
   self.skipWaiting();
 });
